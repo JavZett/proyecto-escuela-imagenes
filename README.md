@@ -1,3 +1,3 @@
-# # API de imagenes
+## API de imagenes
 
-# Subir imagenes al servidor
+- Subir imagenes al servidor
